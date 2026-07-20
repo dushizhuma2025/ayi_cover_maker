@@ -47,12 +47,12 @@
 | 风格名称 | Style ID | 预设预览 | 最佳适用场景 |
 | :--- | :--- | :--- | :--- |
 | **咨询报告视觉** | `consulting-report-visual` | ![咨询报告视觉](https://vd58qyq60732.meoo.zone/sb-api/storage/v1/object/public/files/public/consulting_report_visual_1784521739458_sirmgo.jpg) | 商业策略、方法论、产品分析、结构化观点 |
-| **商业杂志头版** | `business-magazine-front-page` | ![商业杂志头版](https://vd58qyq60732.meoo.zone/sb-api/storage/v1/object/public/files/public/business_magazine_front_page_1784533781269_a776ox.png) | AI、创业、投资、趋势、商业科技封面 |
+| **商业杂志头版** | `business-magazine-front-page` | ![商业杂志头版](https://vd58qyq60732.meoo.zone/sb-api/storage/v1/object/public/files/public/business_magazine_front_page_1784560444052_a565jc.jpg) | AI、创业、投资、趋势、商业科技封面 |
 | **黑红剪影** | `black-red-silhouette` | ![黑红剪影](https://vd58qyq60732.meoo.zone/sb-api/storage/v1/object/public/files/public/black_red_silhouette_1784521733595_3to1z3.png) | 工具教程、AI 工作流、金融、速度、电影封面 |
 | **苹果极简风格** | `apple-minimal-style` | ![苹果极简风格](https://vd58qyq60732.meoo.zone/sb-api/storage/v1/object/public/files/public/apple_minimal_style_1784533781269_a776ox.png) | 科技趋势、高级教程、产品发布、高端体验长文 |
 | **品牌协同连接** | `brand-collaboration-connection` | ![品牌协同连接](https://vd58qyq60732.meoo.zone/sb-api/storage/v1/object/public/files/public/brand_collaboration_connection_1784521736175_qj2s31.png) | 品牌联动、工具集成、自动化工作流、企业级连接 |
 | **银色锡纸蓝字** | `silver-foil-blue-minimal` | ![银色锡纸蓝字](https://vd58qyq60732.meoo.zone/sb-api/storage/v1/object/public/files/public/silver_foil_blue_minimal_1784521746678_6s57cc.png) | 成长路径、方法论、商业系统、AI 工具高级极简 |
-| **博主重磅课程风** | `creator-course-3d-highlight` | ![博主重磅课程风](https://vd58qyq60732.meoo.zone/sb-api/storage/v1/object/public/files/public/creator_course_3d_highlight_1784533778324_rquz0h.png) | 知识付费、实战干货、重大决策建议、博主课程 |
+| **博主重磅课程风** | `creator-course-3d-highlight` | ![博主重磅课程风](https://vd58qyq60732.meoo.zone/sb-api/storage/v1/object/public/files/public/creator_course_3d_highlight_1784560625739_3qsrpp.png) | 知识付费、实战干货、重大决策建议、博主课程 |
 
 ---
 
@@ -63,11 +63,11 @@
 | :--- | :--- | :--- | :--- |
 | **黑白极简概念** | `black-white-minimal-concept` | ![黑白极简概念](https://vd58qyq60732.meoo.zone/sb-api/storage/v1/object/public/files/public/black_white_minimal_concept_1784521734888_h5asvo.png) | 抽象观点、战略、哲学、批判性主题 |
 | **语义转译极简** | `semantic-minimal-translation` | ![语义转译极简](https://vd58qyq60732.meoo.zone/sb-api/storage/v1/object/public/files/public/semantic_minimal_translation_1784521745830_xf9edv.png) | 单词、短句、口号、概念转译 |
-| **科研期刊概念** | `research-journal-concept` | ![科研期刊概念](https://vd58qyq60732.meoo.zone/sb-api/storage/v1/object/public/files/public/research_journal_concept_1784521742242_pfk6se.jpg) | 科研、医学、材料、生物、机制类主题 |
+| **科研期刊概念** | `research-journal-concept` | ![科研期刊概念](https://vd58qyq60732.meoo.zone/sb-api/storage/v1/object/public/files/public/research_journal_concept_1784560595818_jbnnnm.jpg) | 科研、医学、材料、生物、机制类主题 |
 | **极简公共空间摄影** | `minimal-public-space-photography` | ![极简公共空间摄影](https://vd58qyq60732.meoo.zone/sb-api/storage/v1/object/public/files/public/minimal_public_space_photography_1784521741639_g9u1xz.jpg) | 观点长文、文化观察、空间秩序、个体与组织关系 |
 | **黑白灰先锋几何** | `black-white-gray-avant-geometry` | ![黑白灰先锋几何](https://vd58qyq60732.meoo.zone/sb-api/storage/v1/object/public/files/public/black_white_gray_avant_geometry_1784521734222_t2e0r3.jpg) | 实验性、现代主义、几何构成、强对比视觉 |
 | **法式极简墨线海报** | `french-minimal-ink-poster` | ![法式极简墨线海报](https://vd58qyq60732.meoo.zone/sb-api/storage/v1/object/public/files/public/french_minimal_ink_poster_1784521740404_o0r0uj.png) | AI、关系、制度、选择和抽象观点手绘墨线 |
-| **黑红巨字压迫风** | `black-red-giant-text` | ![黑红巨字压迫风](https://vd58qyq60732.meoo.zone/sb-api/storage/v1/object/public/files/public/black_red_giant_text_1784533779347_uva6t2.png) | 认知误区纠正、深度批判长文、社会现象、思维反思 |
+| **黑红巨字压迫风** | `black-red-giant-text` | ![黑红巨字压迫风](https://vd58qyq60732.meoo.zone/sb-api/storage/v1/object/public/files/public/black_red_giant_text_1784560558008_24r851.png) | 认知误区纠正、深度批判长文、社会现象、思维反思 |
 
 ---
 
@@ -82,7 +82,7 @@
 | **复古油墨点阵隐喻** | `retro-ink-dot-matrix-metaphor` | ![复古油墨点阵隐喻](https://vd58qyq60732.meoo.zone/sb-api/storage/v1/object/public/files/public/retro_ink_dot_matrix_metaphor_1784521743659_dvdxpj.png) | AI、科技、系统、研究和抽象观点复古点阵隐喻 |
 | **黑色复古现代主义封面** | `black-midcentury-modernist-cover` | ![黑色复古现代主义封面](https://vd58qyq60732.meoo.zone/sb-api/storage/v1/object/public/files/public/black_midcentury_modernist_cover_1784521732670_ch0o9n.png) | 复古高级、服务场景、产品人物、概念封面 |
 | **巨型透视中文标题** | `giant-perspective-chinese-title` | ![巨型透视中文标题](https://vd58qyq60732.meoo.zone/sb-api/storage/v1/object/public/files/public/giant_perspective_chinese_title_1784521740948_b2gbw7.png) | 中文标题主导、强冲击、活动和社媒封面 |
-| **彩色新构成主义巨构海报**| `color-neo-constructivist-megastructure-poster` | ![彩色新构成主义巨构海报](https://vd58qyq60732.meoo.zone/sb-api/storage/v1/object/public/files/public/color_neo_constructivist_megastructure_poster_1784521738538_37pth1.png) | 热点事件、体育赛事、产品发布、强冲击社媒 |
+| **彩色新构成主义巨构海报**| `color-neo-constructivist-megastructure-poster` | ![彩色新构成主义巨构海报](https://vd58qyq60732.meoo.zone/sb-api/storage/v1/object/public/files/public/color_neo_constructivist_megastructure_poster_1784560515902_k3n6xx.png) | 热点事件、体育赛事、产品发布、强冲击社媒 |
 
 ---
 
@@ -115,6 +115,7 @@
 ## 🧠 智能决策逻辑 (Smart Decision System)
 
 `ayi-cover` 在接收用户请求时，遵循严格的逻辑分层决策：
+
 
 ```mermaid
 graph TD
